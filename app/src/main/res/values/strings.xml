@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTac</string>
+
+    <string name="winner_massage">Поздравляю,\ вы победили!</string>
+
+    <string name="loser_massage">Поздравляю,\ вы проиграли!</string>
+
+    <string name="restart_massage">Сброс </string>
+
+    <string name="draw_massage">Ничья </string>
+
+</resources>
